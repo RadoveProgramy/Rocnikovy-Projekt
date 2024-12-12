@@ -1,0 +1,39 @@
+Id uncrossable objects:
+201 Uncrossable cliff
+301 Uncrossable body of water
+307 Uncrossable marsh
+411 Uncrossable vegetation
+515 Uncrossable wall
+518 Uncrossable fence or railing
+529 Prominent uncrossable line feature
+708 Out of bounds boundary
+709 Out of bounds area
+714 Temporary construction or closed area
+
+417 Prominent large tree
+418 Prominent bush or small tree
+419 Prominent vegetation feature
+509.1 Railway
+520 Area that shall not be entered
+521 Building
+522 Canopy
+522.1 Pillar
+524 High tower
+525 Small tower
+526 Cairn, memorial, sculpture, small monument or boundary stone
+533 Area with obstacles
+
+Objects I am not sure with:
+203 Rocky pit or cave
+206 Gigantic boulder or rock pillar
+208 Boulder field
+213 Open sandy ground
+321 Hydrant
+410 Vegetation: fight
+415 Distinct cultivation boundary
+527 Fodder rack
+530 Prominent man-made feature - ring
+531 Prominent man-made feature - x
+541 Playground equipment
+542 Table
+543 Bench,seat
