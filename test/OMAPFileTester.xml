@@ -1,0 +1,14 @@
+<map>
+    <object id="109" name="Small knoll" symbol="109"></object>
+    <object id="111" name="Small depression" symbol="111"></object>
+    <object id="201" name="Uncrossable cliff" symbol="201"></object>
+    <object id="205" name="Large boulder" symbol="205"></object>
+    <object id="208" name="Boulder field" symbol="208"></object>
+    <object id="301" name="Uncrossable body of water" symbol="301"></object>
+    <object id="302" name="Shallow body of water" symbol="302"></object>
+    <object id="305" name="Small crossable watercourse" symbol="305"></object>
+    <object id="307" name="Uncrossable marsh" symbol="307"></object>
+    <object id="308" name="Marsh" symbol="308"></object>
+    <object id="405" name="Forest" symbol="405"></object>
+    <object id="411" name="Uncrossable vegetation" symbol="411"></object>
+</map>
